@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5a7f60389d550be4f969010540095c39
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 197617
+  packageName: Modular Scifi Station - Environment (HDRP)
+  packageVersion: 1.3
+  assetPath: Assets/Ilumisoft/Modular Scifi Station/Scenes/Example/Example Baking
+    Set.CellSharedData.bytes
+  uploadId: 682429

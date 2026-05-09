@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 309c0b495bc4ba64785b7c50f0531b2f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 197617
+  packageName: Modular Scifi Station - Environment (HDRP)
+  packageVersion: 1.3
+  assetPath: Assets/Ilumisoft/Modular Scifi Station/Timelines/Cinematic Timeline.playable
+  uploadId: 682429
